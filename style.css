@@ -11,6 +11,10 @@ header > p {
   padding: 10px;
 }
 
+.posts {
+  padding: 20px;
+}
+
 footer {
   background-color: #2a9d8f;
   text-align: center;
