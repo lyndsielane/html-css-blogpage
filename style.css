@@ -1,0 +1,12 @@
+header {
+  background-color: #2a9d8f;
+  text-align: center;
+  padding: 20px;
+}
+
+header > p {
+  display: inline-block;
+  text-align: center;
+  font-size: large;
+  padding: 10px;
+}
