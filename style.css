@@ -10,3 +10,9 @@ header > p {
   font-size: large;
   padding: 10px;
 }
+
+footer {
+  background-color: #2a9d8f;
+  text-align: center;
+  padding: 10px;
+}
